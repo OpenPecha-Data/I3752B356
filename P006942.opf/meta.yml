@@ -1,15 +1,16 @@
-id: opecha:P006942
+id: P006942
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG13813
   title: བོད་ཀྱི་དཀར་ཆག་རིག་པའི་ལག་དེབ།
-  volume:
+  author: ''
+  volumes:
     e285b349f0ec4c3ea94e3e5ac224d248:
       image_group_id: I1KG15799
       title: Volume 1 of bod kyi dkar chag rig pa'i lag deb/
       volume_number: 1
       total_pages: 228
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་དཀར་ཆག་རིག་པའི་ལག་དེབ།
   author: ''
